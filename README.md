@@ -1,5 +1,11 @@
 # 📦 Direct Delivery – An Expo-Based Application
 
+---
+
+![Leonardo_Phoenix_09_A_clean_and_modern_poster_representing_a_s_1](https://github.com/user-attachments/assets/0a05942d-2b8f-4c72-a872-424803bbafb8)
+
+---
+
 ## 🚀 Overview  
 This Expo-based delivery application eliminates the need for brokers, allowing users to connect **directly** with delivery partners. Whether for parcels, food, or goods, this app ensures **faster, cost-effective, and transparent** deliveries.  
 
